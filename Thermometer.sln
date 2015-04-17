@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermometer", "Thermometer\Thermometer.csproj", "{BB126482-A963-4F15-8BEE-DDFD6E970BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermometer.UnitTest", "Thermometer.UnitTest\Thermometer.UnitTest.csproj", "{698C44F8-634E-4654-BAFC-F6A06E759FC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermometer.Domain", "Thermometer.Domain\Thermometer.Domain.csproj", "{9E6F8217-188D-47E9-8518-30219A4C6239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermometer.IO", "Thermometer.IO\Thermometer.IO.csproj", "{911A0D95-AC36-45D9-A1D1-C49FB47D1E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermometer.Common", "Thermometer.Common\Thermometer.Common.csproj", "{1DDC314C-2BB9-49BC-B0AD-1EDFB97ABBD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB126482-A963-4F15-8BEE-DDFD6E970BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB126482-A963-4F15-8BEE-DDFD6E970BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB126482-A963-4F15-8BEE-DDFD6E970BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB126482-A963-4F15-8BEE-DDFD6E970BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698C44F8-634E-4654-BAFC-F6A06E759FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698C44F8-634E-4654-BAFC-F6A06E759FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698C44F8-634E-4654-BAFC-F6A06E759FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698C44F8-634E-4654-BAFC-F6A06E759FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6F8217-188D-47E9-8518-30219A4C6239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6F8217-188D-47E9-8518-30219A4C6239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6F8217-188D-47E9-8518-30219A4C6239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6F8217-188D-47E9-8518-30219A4C6239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911A0D95-AC36-45D9-A1D1-C49FB47D1E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911A0D95-AC36-45D9-A1D1-C49FB47D1E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911A0D95-AC36-45D9-A1D1-C49FB47D1E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911A0D95-AC36-45D9-A1D1-C49FB47D1E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DDC314C-2BB9-49BC-B0AD-1EDFB97ABBD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDC314C-2BB9-49BC-B0AD-1EDFB97ABBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDC314C-2BB9-49BC-B0AD-1EDFB97ABBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDC314C-2BB9-49BC-B0AD-1EDFB97ABBD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

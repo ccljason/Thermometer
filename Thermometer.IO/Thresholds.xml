@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<thresholds>
+  <ThresholdData Id ="1" Name="Freezing" Temperature="0" Direction="above" IgnoreHalfUnit="1"/>
+  <ThresholdData Id ="2" Name="Boiling" Temperature="100" Direction="below" IgnoreHalfUnit="1"/>
+</thresholds>

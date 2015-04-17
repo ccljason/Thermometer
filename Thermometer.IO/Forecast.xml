@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<forecast>
+	<day name="current" temperature="15" degree="c" high="20" low="10" humidity="70" />
+	<day name="monday" temperature="16" degree="c" high="21" low="11" humidity="65" />
+	<day name="tuesday" temperature="17" degree="c" high="22" low="12" humidity="61" />
+</forecast>

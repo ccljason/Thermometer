@@ -1,0 +1,22 @@
+{
+  "forecast": {
+    [
+      {
+        "name": "current",
+        "temperature": "25",
+        "degree": "f",
+        "high": "20",
+        "low": "10",
+        "humidity": "60"
+      },
+      {
+        "name": "sunday",
+        "temperature": "16",
+        "degree": "c",
+        "high": "21",
+        "low": "11",
+        "humidity": "55"
+      }
+    ]
+  }
+}
